@@ -25,6 +25,8 @@
     <types>
         <members>HelloWorldTriggerTest</members>
         <members>HelloWorldTriggerTest1</members>
+        <members>HelloWorldTriggerTest123</members>
+        <members>HelloWorldTriggerTestn1</members>
         <name>ApexTrigger</name>
     </types>
 </Package>
