@@ -5,6 +5,9 @@
         <members>A1</members>
         <members>A1123</members>
         <members>A12</members>
+        <members>A8</members>
+        <members>A98</members>
+        <members>A989</members>
         <name>ApexClass</name>
     </types>
 </Package>
