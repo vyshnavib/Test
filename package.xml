@@ -14,6 +14,9 @@
         <members>A8</members>
         <members>A98</members>
         <members>A989</members>
+        <members>ARTest1</members>
+        <members>ARVijayTest1</members>
+        <members>ARsaiTest4</members>
         <members>CL2</members>
         <members>ChangePasswordController</members>
         <members>ChangePasswordControllerTest</members>
