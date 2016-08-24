@@ -19,4 +19,9 @@
         <members>ChangePasswordControllerTest</members>
         <name>ApexClass</name>
     </types>
+    <types>
+        <members>HelloWorldTriggerTest</members>
+        <members>HelloWorldTriggerTest1</members>
+        <name>ApexTrigger</name>
+    </types>
 </Package>
