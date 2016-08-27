@@ -20,6 +20,9 @@
         <members>ARTest1</members>
         <members>ARVijayTest1</members>
         <members>ARsaiTest4</members>
+        <members>Ac12</members>
+        <members>Ac2</members>
+        <members>Ac31</members>
         <members>CL2</members>
         <members>ChangePasswordController</members>
         <members>ChangePasswordControllerTest</members>
