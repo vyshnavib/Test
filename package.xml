@@ -28,6 +28,9 @@
         <members>AcAWSTest1</members>
         <members>AcCountAC1</members>
         <members>AcT1</members>
+        <members>Account37</members>
+        <members>Account38</members>
+        <members>Account4</members>
         <members>CL2</members>
         <members>ChangePasswordController</members>
         <members>ChangePasswordControllerTest</members>
