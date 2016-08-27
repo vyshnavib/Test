@@ -25,6 +25,9 @@
         <members>Ac12</members>
         <members>Ac2</members>
         <members>Ac31</members>
+        <members>AcAWSTest1</members>
+        <members>AcCountAC1</members>
+        <members>AcT1</members>
         <members>CL2</members>
         <members>ChangePasswordController</members>
         <members>ChangePasswordControllerTest</members>
