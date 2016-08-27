@@ -31,6 +31,9 @@
         <members>CommunitiesSelfRegConfirmControllerTest</members>
         <members>CommunitiesSelfRegController</members>
         <members>CommunitiesSelfRegControllerTest</members>
+        <members>DemoCreateAccount13</members>
+        <members>DemoCreateAccount14</members>
+        <members>DemoCreateAccount15</members>
         <name>ApexClass</name>
     </types>
     <types>
