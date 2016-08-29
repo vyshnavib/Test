@@ -56,6 +56,9 @@
         <members>DemoCreateAccount15</members>
         <members>DemoCreateAccount16</members>
         <members>DemoCreateAccount17</members>
+        <members>ForgotPasswordControllerTest</members>
+        <members>KA1</members>
+        <members>OAcc1</members>
         <name>ApexClass</name>
     </types>
     <types>
