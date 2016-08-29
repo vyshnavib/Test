@@ -69,6 +69,11 @@
         <members>SAccounttest3</members>
         <members>SSAcccount11</members>
         <members>SSAcccount22</members>
+        <members>SSAccount44</members>
+        <members>SSAccount55</members>
+        <members>SSAccount66</members>
+        <members>Saclass1</members>
+        <members>SaiClass2</members>
         <name>ApexClass</name>
     </types>
     <types>
