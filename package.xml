@@ -77,6 +77,12 @@
         <name>ApexClass</name>
     </types>
     <types>
+        <members>BandwidthExceeded</members>
+        <members>ChangePassword</members>
+        <members>CommunitiesLanding</members>
+        <name>ApexPage</name>
+    </types>
+    <types>
         <members>HelloWorldTriggerTest</members>
         <members>HelloWorldTriggerTest1</members>
         <members>HelloWorldTriggerTest123</members>
