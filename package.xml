@@ -77,6 +77,12 @@
         <name>ApexClass</name>
     </types>
     <types>
+        <members>SiteFooter</members>
+        <members>SiteHeader</members>
+        <name>ApexComponent</name>
+    </types>
+    <types>
+        <members>AnswersHome</members>
         <members>BandwidthExceeded</members>
         <members>ChangePassword</members>
         <members>CommunitiesLanding</members>
