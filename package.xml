@@ -62,6 +62,10 @@
         <members>ForgotPasswordControllerTest</members>
         <members>KA1</members>
         <members>OAcc1</members>
+        <members>OAcc2</members>
+        <members>OAcc3</members>
+        <members>Org1Class1</members>
+        <members>SAC1</members>
         <name>ApexClass</name>
     </types>
     <types>
