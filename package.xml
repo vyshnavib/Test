@@ -48,6 +48,8 @@
         <members>CL2</members>
         <members>ChangePasswordController</members>
         <members>ChangePasswordControllerTest</members>
+        <members>CommunitiesLoginController</members>
+        <members>CommunitiesLoginControllerTest</members>
         <members>CommunitiesSelfRegConfirmControllerTest</members>
         <members>CommunitiesSelfRegController</members>
         <members>CommunitiesSelfRegControllerTest</members>
@@ -100,6 +102,7 @@
         <members>VAccount12</members>
         <members>VAccount2</members>
         <members>VAccount3</members>
+        <members>Vishal11</members>
         <name>ApexClass</name>
     </types>
     <types>
