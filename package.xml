@@ -102,6 +102,8 @@
         <members>DemoCreateAccount15</members>
         <members>DemoCreateAccount16</members>
         <members>DemoCreateAccount17</members>
+        <members>DemoCreateAccount20</members>
+        <members>DemoCreateAccount3</members>
         <members>ForgotPasswordController</members>
         <members>ForgotPasswordControllerTest</members>
         <members>KA1</members>
