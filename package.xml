@@ -91,6 +91,9 @@
         <members>SiteRegisterController</members>
         <members>SiteRegisterControllerTest</members>
         <members>TestClasssai1</members>
+        <members>VAccount12</members>
+        <members>VAccount2</members>
+        <members>VAccount3</members>
         <name>ApexClass</name>
     </types>
     <types>
