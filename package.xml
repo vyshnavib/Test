@@ -61,6 +61,9 @@
         <members>AccountADD34</members>
         <members>AccountAR1</members>
         <members>AccountTest</members>
+        <members>AcctTest1</members>
+        <members>AcctTest2</members>
+        <members>AcctTest3</members>
         <members>Acst1</members>
         <members>Act12</members>
         <members>Act123</members>
@@ -68,6 +71,7 @@
         <members>ApxCls1213</members>
         <members>BusinessLogic</members>
         <members>CACTes1</members>
+        <members>CL1</members>
         <members>CL2</members>
         <members>ChangePasswordController</members>
         <members>ChangePasswordControllerTest</members>
