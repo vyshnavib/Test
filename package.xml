@@ -172,6 +172,13 @@
         <name>ApexTrigger</name>
     </types>
     <types>
+        <members>Case.AR-CaseRule1</members>
+        <members>Case.CaseRule1</members>
+        <members>Case.SCh-CaseRule1</members>
+        <members>Case.SS Case AssignmentRule1</members>
+        <name>AssignmentRule</name>
+    </types>
+    <types>
         <members>QA_Test__c</members>
         <members>SCHNewObj1__c</members>
         <name>MatchingRules</name>
