@@ -45,6 +45,8 @@
         <members>Act123</members>
         <members>AddNewAccounttest26</members>
         <members>ApxCls1213</members>
+        <members>BusinessLogic</members>
+        <members>CACTes1</members>
         <members>CL2</members>
         <members>ChangePasswordController</members>
         <members>ChangePasswordControllerTest</members>
@@ -63,6 +65,8 @@
         <members>CreatingAc5</members>
         <members>CreatingAcc1</members>
         <members>Demo4A18</members>
+        <members>Demo4A19</members>
+        <members>Demo4A20</members>
         <members>DemoCreateAccount11</members>
         <members>DemoCreateAccount12</members>
         <members>DemoCreateAccount13</members>
