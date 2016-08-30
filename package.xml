@@ -151,6 +151,8 @@
         <members>CommunitiesLanding</members>
         <members>CommunitiesLogin</members>
         <members>CommunitiesSelfReg</members>
+        <members>CommunitiesTemplate</members>
+        <members>Exception</members>
         <name>ApexPage</name>
     </types>
     <types>
