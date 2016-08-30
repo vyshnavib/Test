@@ -66,6 +66,10 @@
         <members>ForgotPasswordControllerTest</members>
         <members>KA1</members>
         <members>KA2</members>
+        <members>KAC18</members>
+        <members>KAC185</members>
+        <members>MyProfilePageController</members>
+        <members>MyProfilePageControllerTest</members>
         <members>OAcc1</members>
         <members>OAcc2</members>
         <members>OAcc3</members>
