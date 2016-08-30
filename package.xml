@@ -84,6 +84,9 @@
         <members>SSAccount66</members>
         <members>Saclass1</members>
         <members>SaiClass2</members>
+        <members>SiteRegisterController</members>
+        <members>SiteRegisterControllerTest</members>
+        <members>TestClasssai1</members>
         <name>ApexClass</name>
     </types>
     <types>
