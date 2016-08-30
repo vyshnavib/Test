@@ -159,6 +159,9 @@
         <members>CommunitiesSelfReg</members>
         <members>CommunitiesTemplate</members>
         <members>Exception</members>
+        <members>FileNotFound</members>
+        <members>InMaintenance</members>
+        <members>MyProfilePage</members>
         <name>ApexPage</name>
     </types>
     <types>
