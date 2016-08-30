@@ -117,6 +117,7 @@
         <members>SiteFooter</members>
         <members>SiteHeader</members>
         <members>SiteLogin</members>
+        <members>SitePoweredBy</members>
         <name>ApexComponent</name>
     </types>
     <types>
@@ -124,6 +125,8 @@
         <members>BandwidthExceeded</members>
         <members>ChangePassword</members>
         <members>CommunitiesLanding</members>
+        <members>CommunitiesLogin</members>
+        <members>CommunitiesSelfReg</members>
         <name>ApexPage</name>
     </types>
     <types>
