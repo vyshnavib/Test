@@ -204,6 +204,14 @@
         <name>Community</name>
     </types>
     <types>
+        <members>AccObj6__c</members>
+        <members>AccObj91__c</members>
+        <members>Acc__c</members>
+        <members>Account</members>
+        <members>ArifObjj1__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>Lead.Standard_Lead_Match_Rule_v1_0</members>
         <members>QA_Test__c.SSMatchingRule1</members>
         <members>SCHNewObj1__c.SCHMatchingRule1</members>
