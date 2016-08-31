@@ -240,9 +240,20 @@
         <name>WorkflowAlert</name>
     </types>
     <types>
+        <members>Lead.SS_Field_Update2</members>
+        <members>QA_Test__c.SSFieldUpdate1</members>
+        <members>QA_Test__c.SSfeildpdate2</members>
+        <name>WorkflowFieldUpdate</name>
+    </types>
+    <types>
         <members>Lead.SSLeadOutboundMessage12</members>
         <members>QA_Test__c.SSOutbound_Message1</members>
         <members>QA_Test__c.SSOutbound_Message2</members>
         <name>WorkflowOutboundMessage</name>
+    </types>
+    <types>
+        <members>Account.SSTask11</members>
+        <members>Lead.Test</members>
+        <name>WorkflowTask</name>
     </types>
 </Package>

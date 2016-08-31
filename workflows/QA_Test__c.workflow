@@ -30,6 +30,24 @@
         <senderType>CurrentUser</senderType>
         <template>unfiled$public/CommunityChangePasswordEmailTemplate</template>
     </alerts>
+    <fieldUpdates>
+        <fullName>SSFieldUpdate1</fullName>
+        <description>Add  SSFieldUpdate1</description>
+        <field>SS_Field1__c</field>
+        <name>SSFieldUpdate1</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Literal</operation>
+        <protected>false</protected>
+    </fieldUpdates>
+    <fieldUpdates>
+        <fullName>SSfeildpdate2</fullName>
+        <description>ADD SSfeildpdate2</description>
+        <field>SS_Field1__c</field>
+        <name>SSfeildpdate2</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Literal</operation>
+        <protected>false</protected>
+    </fieldUpdates>
     <outboundMessages>
         <fullName>SSOutbound_Message1</fullName>
         <apiVersion>36.0</apiVersion>
