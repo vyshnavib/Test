@@ -30,4 +30,31 @@
         <senderType>CurrentUser</senderType>
         <template>unfiled$public/CommunityChangePasswordEmailTemplate</template>
     </alerts>
+    <outboundMessages>
+        <fullName>SSOutbound_Message1</fullName>
+        <apiVersion>36.0</apiVersion>
+        <description>Add Comment for
+SSOutbound Message1</description>
+        <endpointUrl>http://gmail.com</endpointUrl>
+        <fields>Id</fields>
+        <fields>LastModifiedById</fields>
+        <fields>SS_Field1__c</fields>
+        <includeSessionId>false</includeSessionId>
+        <integrationUser>saikumar.demo4@autorabit.com</integrationUser>
+        <name>SSOutbound Message1</name>
+        <protected>false</protected>
+        <useDeadLetterQueue>false</useDeadLetterQueue>
+    </outboundMessages>
+    <outboundMessages>
+        <fullName>SSOutbound_Message2</fullName>
+        <apiVersion>36.0</apiVersion>
+        <endpointUrl>http://gmail.com</endpointUrl>
+        <fields>Id</fields>
+        <fields>SS_Field1__c</fields>
+        <includeSessionId>false</includeSessionId>
+        <integrationUser>saikumar.demo4@autorabit.com</integrationUser>
+        <name>SSOutbound Message2</name>
+        <protected>false</protected>
+        <useDeadLetterQueue>false</useDeadLetterQueue>
+    </outboundMessages>
 </Workflow>

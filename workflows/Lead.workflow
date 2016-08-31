@@ -11,4 +11,16 @@
         <senderType>CurrentUser</senderType>
         <template>unfiled$public/CommunityChangePasswordEmailTemplate</template>
     </alerts>
+    <outboundMessages>
+        <fullName>SSLeadOutboundMessage12</fullName>
+        <apiVersion>36.0</apiVersion>
+        <endpointUrl>http://TEst</endpointUrl>
+        <fields>City</fields>
+        <fields>Id</fields>
+        <includeSessionId>false</includeSessionId>
+        <integrationUser>saikumar.demo4@autorabit.com</integrationUser>
+        <name>SSLeadOutboundMessage12</name>
+        <protected>false</protected>
+        <useDeadLetterQueue>false</useDeadLetterQueue>
+    </outboundMessages>
 </Workflow>
