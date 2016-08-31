@@ -204,6 +204,11 @@
         <name>Community</name>
     </types>
     <types>
+        <members>APXObject1__c.APXField2__c</members>
+        <members>ARObJT1__c.ARCFIeld2__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
         <members>AccObj6__c</members>
         <members>AccObj91__c</members>
         <members>Acc__c</members>
