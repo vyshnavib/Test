@@ -196,7 +196,12 @@
         <members>Case.CaseRule1</members>
         <members>Case.SCh-CaseRule1</members>
         <members>Case.SS Case AssignmentRule1</members>
+        <members>Lead.Standard</members>
         <name>AssignmentRule</name>
+    </types>
+    <types>
+        <members>Internal Zone</members>
+        <name>Community</name>
     </types>
     <types>
         <members>Account</members>
