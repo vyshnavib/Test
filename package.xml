@@ -219,4 +219,11 @@
         <members>SCHObj1__c</members>
         <name>MatchingRules</name>
     </types>
+    <types>
+        <members>Case.QA_Alert</members>
+        <members>Lead.SS_Email_Alert23</members>
+        <members>QA_Test__c.Create_SS_New_Email_Alert1</members>
+        <members>QA_Test__c.SS_EmailAlert2</members>
+        <name>WorkflowAlert</name>
+    </types>
 </Package>
