@@ -171,6 +171,10 @@
         <members>FileNotFound</members>
         <members>InMaintenance</members>
         <members>MyProfilePage</members>
+        <members>SiteLogin</members>
+        <members>SiteRegister</members>
+        <members>SiteRegisterConfirm</members>
+        <members>StdExceptionTemplate</members>
         <name>ApexPage</name>
     </types>
     <types>
