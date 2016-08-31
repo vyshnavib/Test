@@ -204,6 +204,13 @@
         <name>Community</name>
     </types>
     <types>
+        <members>Lead.Standard_Lead_Match_Rule_v1_0</members>
+        <members>QA_Test__c.SSMatchingRule1</members>
+        <members>SCHNewObj1__c.SCHMatchingRule1</members>
+        <members>SCHObj1__c.SCHMatchingRule2</members>
+        <name>MatchingRule</name>
+    </types>
+    <types>
         <members>Account</members>
         <members>Contact</members>
         <members>Lead</members>
