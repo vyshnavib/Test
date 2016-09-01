@@ -240,6 +240,12 @@
         <name>MatchingRules</name>
     </types>
     <types>
+        <members>Task.Defer</members>
+        <members>Task.Defer_0</members>
+        <members>Task.EditDescription</members>
+        <name>QuickAction</name>
+    </types>
+    <types>
         <members>Case.QA_Alert</members>
         <members>Lead.SS_Email_Alert23</members>
         <members>QA_Test__c.Create_SS_New_Email_Alert1</members>
