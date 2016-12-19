@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>37.0</version>
+    <version>33.0</version>
     <types>
         <members>A0</members>
         <members>A1</members>
@@ -205,11 +205,14 @@
         <name>Community</name>
     </types>
     <types>
+        <members>ACAccTestObj1__c.AutorabitExtId__c</members>
         <members>APXObject1__c.APXField2__c</members>
         <members>ARObJT1__c.ARCFIeld2__c</members>
         <name>CustomField</name>
     </types>
     <types>
+        <members>ACAccTestObj1__c</members>
+        <members>ACC3Obj4__c</members>
         <members>AccObj6__c</members>
         <members>AccObj91__c</members>
         <members>Acc__c</members>
