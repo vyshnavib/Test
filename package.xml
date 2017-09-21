@@ -67,6 +67,7 @@
         <members>AccountADD34</members>
         <members>AccountAR1</members>
         <members>AccountTest</members>
+        <members>AccountsController</members>
         <members>AcctTest1</members>
         <members>AcctTest2</members>
         <members>AcctTest3</members>
